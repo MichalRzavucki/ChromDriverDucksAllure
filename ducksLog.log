@@ -1,0 +1,36 @@
+2023-04-27 13:54:18 Thread: [main] INFO [BaseTest] Before test started
+2023-04-27 13:55:24 Thread: [main] INFO [BaseTest] Before test ended
+2023-04-27 13:55:24 Thread: [main] INFO [BaseTest] beforeMethod deleting cookies
+2023-04-27 13:55:24 Thread: [main] INFO [BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-27 13:55:28 Thread: [main] INFO [LoginTest] TestCorrectLogin started
+2023-04-27 13:55:28 Thread: [main] INFO [pageOblects.MainPage] start filling viktar.kudasau@gmail.com
+2023-04-27 13:55:31 Thread: [main] INFO [pageOblects.MainPage] start filling 123456789
+2023-04-27 13:55:31 Thread: [main] INFO [pageOblects.MainPage] start clicking button By.xpath: //button[@value='Login']
+2023-04-27 13:55:32 Thread: [main] INFO [pageOblects.MainPage] method 'fillCorrectLoginAndSend' ended
+2023-04-27 13:55:32 Thread: [main] INFO [pageOblects.MainPage] start getting success message: You are now logged in as Viktar Kudasau.
+2023-04-27 13:55:32 Thread: [main] INFO [pageOblects.MainPage] start getting success message: You are now logged in as Viktar Kudasau.
+2023-04-27 13:55:33 Thread: [main] INFO [org.example.Listener] Start screenshot
+2023-04-27 13:55:33 Thread: [main] INFO [org.example.Listener] End screenshot
+2023-04-27 13:55:33 Thread: [main] INFO [org.example.Listener] Test failed
+2023-04-27 13:55:33 Thread: [main] INFO [BaseTest] beforeMethod deleting cookies
+2023-04-27 13:55:34 Thread: [main] INFO [BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-27 13:55:34 Thread: [main] INFO [LoginTest] TestIncorrectLogin started
+2023-04-27 13:55:34 Thread: [main] INFO [pageOblects.MainPage] start filling with xwq2@de.com
+2023-04-27 13:55:34 Thread: [main] INFO [pageOblects.MainPage] start filling with 123
+2023-04-27 13:55:34 Thread: [main] INFO [pageOblects.MainPage] start clicking button By.xpath: //button[@value='Login']
+2023-04-27 13:55:38 Thread: [main] INFO [pageOblects.MainPage] method 'fillIncorrectLoginAndSend' ended
+2023-04-27 13:55:38 Thread: [main] INFO [pageOblects.MainPage] start getting error message: Wrong password or the account is disabled, or does not exist
+2023-04-27 13:55:38 Thread: [main] INFO [pageOblects.MainPage] start getting error message: Wrong password or the account is disabled, or does not exist
+2023-04-27 13:55:38 Thread: [main] INFO [BaseTest] Tests ended
+2023-04-27 13:55:40 Thread: [main] INFO [BaseTest] Before test started
+2023-04-27 13:55:56 Thread: [main] INFO [BaseTest] Before test ended
+2023-04-27 13:55:56 Thread: [main] INFO [BaseTest] beforeMethod deleting cookies
+2023-04-27 13:55:57 Thread: [main] INFO [BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-27 13:56:01 Thread: [main] INFO [BaseTest] quantityDucksTest started
+2023-04-27 13:56:02 Thread: [main] INFO [BaseTest] beforeMethod deleting cookies
+2023-04-27 13:56:03 Thread: [main] INFO [BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-27 13:56:03 Thread: [main] INFO [BaseTest] sortByDateTest started
+2023-04-27 13:56:04 Thread: [main] INFO [BaseTest] beforeMethod deleting cookies
+2023-04-27 13:56:05 Thread: [main] INFO [BaseTest] Opening https://litecart.stqa.ru/en/
+2023-04-27 13:56:05 Thread: [main] INFO [BaseTest] sortByNameTest started
+2023-04-27 13:56:06 Thread: [main] INFO [BaseTest] Tests ended
